@@ -1,8 +1,7 @@
 # low-res-platonic-solid-ID
 The following is part of my ongoing personal project in which I aim to implement and train a basic computer vision
 model from scratch. This particular model will seek to categorize low resolution 2D images of 3D geometric objects.
-In particular, it will classify the five Platonic solids, tetrahedron, cube, octahedron, icosahedron, and
-dodecahedron.
+In particular, it will sort images into categories based on which of the five Platonic solids (tetrahedron, cube, octahedron, icosahedron, and dodecahedron) the image contains.
 
 The current repository represents the data set creation phase. 
 

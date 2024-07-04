@@ -1,0 +1,1 @@
+# low-res-platonic-solid-ID

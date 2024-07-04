@@ -10,4 +10,4 @@ There are currently two files:
 #data-set-generation is a Python file which will create and label 50,000 PNG image files: 10,000 unique images of
 each of the five Platonic solids. They are produced by applying pseudorandom transformations to a set of vertices 
 of an initial object of each category and calculating the correct pairs of vertices to connect with edges. Next, we 
-check for uniqueness before drawing to a low-resolution PNG using the PIL library.
+check for uniqueness before drawing the "wire-frame" style image to a low-resolution PNG using the PIL library.
